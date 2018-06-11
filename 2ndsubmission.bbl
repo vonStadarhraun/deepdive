@@ -90,7 +90,7 @@ Holm M, Jacobsen JA, Sturlaugsson J, Holst JC (2006) {Behaviour of Atlantic
 Irigoien X, Klevjer TA, R{\o}stad A, Martinez U, Boyra G, Acu{\~{n}}a JL, Bode
   A, Echevarria F, Gonzalez-Gordillo JI, Hernandez-Leon S, Agusti S, Aksnes DL,
   Duarte CM, Kaartvedt S (2014) {Large mesopelagic fishes biomass and trophic
-  efficiency in the open ocean.} Nature communications 5:3271,
+  efficiency in the open ocean.} Nature Communications 5:3271,
   \doi{10.1038/ncomms4271}
 
 \bibitem[{Jacobsen and Hansen(2001)}]{Jacobsen2001}
@@ -110,10 +110,9 @@ Lacroix GL (2014) {Large pelagic predators could jeopardize the recovery of
   Sciences 71(3):343--350, \doi{10.1139/cjfas-2013-0458}
 
 \bibitem[{Lacroix et~al(2004)Lacroix, McCurdy, and Knox}]{Lacroix2004}
-Lacroix GL, McCurdy P, Knox D (2004) {Migration of Atlantic Salmon Postsmolts
-  in Relation to Habitat Use in a Coastal System}. Transactions of the American
-  Fisheries Society 133(6):1455--1471, \doi{10.1577/T03-032.1},
-  \urlprefix\url{http://www.tandfonline.com/doi/abs/10.1577/T03-032.1}
+Lacroix GL, McCurdy P, Knox D (2004) {Migration of Atlantic salmon postsmolts
+  in relation to habitat use in a coastal system}. Transactions of the American
+  Fisheries Society 133(6):1455--1471, \doi{10.1577/T03-032.1}
 
 \bibitem[{Olafsson et~al(2016)Olafsson, Einarsson, Gilbey, Pampoulie,
   Hreggvidsson, Hjorleifsdottir, and Gudjonsson}]{Olafsson2015}
@@ -186,8 +185,8 @@ Rikardsen AH, Diserud OH, Elliott JM, Dempson JB, Sturlaugsson J, Jensen AJ
   Rikardsen, and Carr}]{Strom2017}
 Str{\o}m JF, Thorstad EB, Chafe G, S{\o}rbye SH, Righton D, Rikardsen AH, Carr
   J (2017) {Ocean migration of pop-up satellite archival tagged Atlantic salmon
-  from the Miramichi River in Canada}. ICES Journal of Marine Science: Journal
-  du Conseil 74(5):1356--1370, \doi{10.1093/icesjms/fsw220}
+  from the Miramichi River in Canada}. ICES Journal of Marine Science
+  74(5):1356--1370, \doi{10.1093/icesjms/fsw220}
 
 \bibitem[{Thorrold et~al(2014)Thorrold, Afonso, Fontes, Braun, Santos, Skomal,
   and Berumen}]{Thorrold2014}
@@ -218,13 +217,13 @@ Ward DM, Hvidsten NA (2011) {Predation: Compensation and Context Dependence}.
 \bibitem[{Westerberg(1982{\natexlab{a}})}]{Westerberg1982a}
 Westerberg H (1982{\natexlab{a}}) {Ultrasonic Tracking of Atlantic Salmon
   (\textit{Salmo-Salar} L.) - I. Movements in Coastal Regions}. In: Institute
-  of Freshwater Research Drottingholm Report, no.~60 in 1982, Swedish board of
+  of Freshwater Research Drottingholm Report, no.~60 in 1982, Swedish Board of
   Fisheries, pp 81--101
 
 \bibitem[{Westerberg(1982{\natexlab{b}})}]{Westerberg1982b}
 Westerberg H (1982{\natexlab{b}}) {Ultrasonic Tracking of Atlantic Salmon
   (\textit{Salmo salar} L.) - II. Swimming Depth and Temperature
   Stratification}. In: Institute of Freshwater Research Drottingholm Report,
-  no.~60 in 1982, Swedish board of Fisheries, Lund, Sweden, pp 102--120
+  no.~60 in 1982, Swedish Board of Fisheries, Lund, Sweden, pp 102--120
 
 \end{thebibliography}
