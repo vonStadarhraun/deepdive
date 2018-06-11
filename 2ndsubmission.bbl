@@ -1,0 +1,230 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Chaput(2012)}]{Chaput2012}
+Chaput G (2012) {Overview of the status of Atlantic salmon (\textit{Salmo
+  salar}) in the North Atlantic and trends in marine mortality}. ICES Journal
+  of Marine Science 69(9):1538--1548, \doi{10.1093/icesjms/fss013}
+
+\bibitem[{Chittenden et~al(2013)Chittenden, Fauchald, and
+  Rikardsen}]{Chittenden2013}
+Chittenden CM, Fauchald P, Rikardsen AH (2013) {Important open-ocean areas for
+  northern Atlantic salmon (\textit{Salmo salar}) - as estimated using a simple
+  ambient-temperature approach}. Canadian Journal of Fisheries and Aquatic
+  Sciences 70(1):101--104, \doi{10.1139/cjfas-2012-0215}
+
+\bibitem[{Davidsen et~al(2008)Davidsen, {Plantalech Manel-la}, {\O}kland,
+  Diserud, Thorstad, Finstad, Sivertsg{\aa}rd, McKinley, and
+  Rikardsen}]{Davidsen2008}
+Davidsen JG, {Plantalech Manel-la} N, {\O}kland F, Diserud OH, Thorstad EB,
+  Finstad B, Sivertsg{\aa}rd R, McKinley RS, Rikardsen AH (2008) {Changes in
+  swimming depths of Atlantic salmon \textit{Salmo salar} post-smolts relative
+  to light intensity}. Journal of Fish Biology 73(4):1065--1074,
+  \doi{10.1111/j.1095-8649.2008.02004.x}
+
+\bibitem[{Davis et~al(1998)Davis, Aydin, and Ishida}]{Davis1998}
+Davis ND, Aydin KY, Ishida Y (1998) {Diel feeding habits and estimates of prey
+  consumption of sockeye, chum, and pink salmon in the Bering Sea in 1997}. In:
+  NPAFC Documents 363, FRI-UW-9816, Fish. Res. Inst, Univ. of Washington,
+  Seattle; Nat. Res. Inst. of Far Seas Fish., Shimizu, p~24
+
+\bibitem[{Friedland et~al(2000)Friedland, Hansen, Dunkley, and
+  MacLean}]{Friedland2000}
+Friedland KD, Hansen LP, Dunkley DA, MacLean JC (2000) {Linkage between ocean
+  climate, post-smolt growth, and survival of Atlantic salmon (\textit{Salmo
+  salar} L.) in the North Sea area}. ICES Journal of Marine Science
+  57(2):419--429, \doi{10.1006/jmsc.1999.0639}
+
+\bibitem[{Gudjonsson et~al(2005)Gudjonsson, Jonsson, and
+  Antonsson}]{Gudjonsson2005}
+Gudjonsson S, Jonsson IR, Antonsson T (2005) {Migration of Atlantic salmon,
+  \textit{Salmo salar}, smolt through the estuary area of River Ellidaar in
+  Iceland}. Environmental Biology of Fishes 74(3-4):291--296,
+  \doi{10.1007/s10641-005-0500-0}
+
+\bibitem[{Guðj{\'{o}}nsson et~al(2015)Guðj{\'{o}}nsson, Einarsson,
+  J{\'{o}}nsson, and Guðbrandsson}]{Gudjonsson2015}
+Guðj{\'{o}}nsson S, Einarsson SM, J{\'{o}}nsson IR, Guðbrandsson J (2015)
+  {Marine feeding areas and vertical movements of Atlantic salmon
+  (\textit{Salmo salar}) as inferred from recoveries of data storage tags}.
+  Canadian Journal of Fisheries and Aquatic Sciences 72(7):1087--1098,
+  \doi{10.1139/cjfas-2014-0562}
+
+\bibitem[{Hedger et~al(2017{\natexlab{a}})Hedger, Rikardsen, Str{\o}m, Righton,
+  Thorstad, and N{\ae}sje}]{Hedger2017}
+Hedger RD, Rikardsen AH, Str{\o}m JF, Righton DA, Thorstad EB, N{\ae}sje TF
+  (2017{\natexlab{a}}) {Diving behaviour of Atlantic salmon at sea: effects of
+  light regimes and temperature stratification}. Marine Ecology Progress Series
+  574:127--140, \doi{10.3354/meps12180}
+
+\bibitem[{Hedger et~al(2017{\natexlab{b}})Hedger, Rikardsen, and
+  Thorstad}]{Hedger2016}
+Hedger RD, Rikardsen AH, Thorstad EB (2017{\natexlab{b}}) {Pop-up satellite
+  archival tag effects on the diving behaviour, growth and survival of adult
+  Atlantic salmon \textit{Salmo salar} at sea}. Journal of Fish Biology
+  90:294--310, \doi{10.1111/jfb.13174}
+
+\bibitem[{Holm et~al(2003)Holm, Holst, Hansen, Jacobsen, O'Maoileidigh, and
+  Moore}]{Holm2003}
+Holm M, Holst JC, Hansen LP, Jacobsen JA, O'Maoileidigh N, Moore A (2003)
+  {Migration and distribution of Atlantic salmon post-smolts in the North Sea
+  and north-east Atlantic}. In: Mills D (ed) Salmon at the Edge, Blackwell
+  Science, pp 7--23
+
+\bibitem[{Holm et~al(2006)Holm, Jacobsen, Sturlaugsson, and Holst}]{Holm2006}
+Holm M, Jacobsen JA, Sturlaugsson J, Holst JC (2006) {Behaviour of Atlantic
+  salmon (\textit{Salmo salar} L.) recorded by data storage tags in the NE
+  Atlantic – implications for interception by pelagic trawls}. In: ICES
+  Document CM 2006/Q:12, p~16
+
+\bibitem[{Irigoien et~al(2014)Irigoien, Klevjer, R{\o}stad, Martinez, Boyra,
+  Acu{\~{n}}a, Bode, Echevarria, Gonzalez-Gordillo, Hernandez-Leon, Agusti,
+  Aksnes, Duarte, and Kaartvedt}]{Irigoien2014}
+Irigoien X, Klevjer TA, R{\o}stad A, Martinez U, Boyra G, Acu{\~{n}}a JL, Bode
+  A, Echevarria F, Gonzalez-Gordillo JI, Hernandez-Leon S, Agusti S, Aksnes DL,
+  Duarte CM, Kaartvedt S (2014) {Large mesopelagic fishes biomass and trophic
+  efficiency in the open ocean.} Nature communications 5:3271,
+  \doi{10.1038/ncomms4271}
+
+\bibitem[{Jacobsen and Hansen(2001)}]{Jacobsen2001}
+Jacobsen JA, Hansen LP (2001) {Feeding habits of wild and escaped farmed
+  Atlantic salmon, \textit{Salmo salar} L., in the Northeast Atlantic}. ICES
+  Journal of Marine Science 58(4):916--933, \doi{10.1006/jmsc.2001.1084}
+
+\bibitem[{Lacroix(2013)}]{Lacroix2013}
+Lacroix GL (2013) {Population-specific ranges of oceanic migration for adult
+  Atlantic salmon (\textit{Salmo salar}) documented using pop-up satellite
+  archival tags}. Canadian Journal of Fisheries and Aquatic Sciences
+  70(7):1011--1030, \doi{10.1139/cjfas-2013-0038}
+
+\bibitem[{Lacroix(2014)}]{Lacroix2014}
+Lacroix GL (2014) {Large pelagic predators could jeopardize the recovery of
+  endangered Atlantic salmon}. Canadian Journal of Fisheries and Aquatic
+  Sciences 71(3):343--350, \doi{10.1139/cjfas-2013-0458}
+
+\bibitem[{Lacroix et~al(2004)Lacroix, McCurdy, and Knox}]{Lacroix2004}
+Lacroix GL, McCurdy P, Knox D (2004) {Migration of Atlantic Salmon Postsmolts
+  in Relation to Habitat Use in a Coastal System}. Transactions of the American
+  Fisheries Society 133(6):1455--1471, \doi{10.1577/T03-032.1},
+  \urlprefix\url{http://www.tandfonline.com/doi/abs/10.1577/T03-032.1}
+
+\bibitem[{Olafsson et~al(2016)Olafsson, Einarsson, Gilbey, Pampoulie,
+  Hreggvidsson, Hjorleifsdottir, and Gudjonsson}]{Olafsson2015}
+Olafsson K, Einarsson SM, Gilbey J, Pampoulie C, Hreggvidsson GO,
+  Hjorleifsdottir S, Gudjonsson S (2016) {Origin of Atlantic salmon
+  (\textit{Salmo salar}) at sea in Icelandic waters}. ICES Journal of Marine
+  Science 73(6):1525--1532, \doi{10.1093/icesjms/fsv176}
+
+\bibitem[{Otero et~al(2014)Otero, L'Ab{\'{e}}e-Lund, Castro-Santos,
+  Leonardsson, Storvik, Jonsson, Dempson, Russell, Jensen, Baglini{\`{e}}re,
+  Dionne, Armstrong, Romakkaniemi, Letcher, Kocik, Erkinaro, Poole, Rogan,
+  Lundqvist, Maclean, Jokikokko, Arnekleiv, Kennedy, Niemel{\"{a}}, Caballero,
+  Music, Antonsson, Gudjonsson, Veselov, Lamberg, Groom, Taylor, Taberner,
+  Dillane, Arnason, Horton, Hvidsten, Jonsson, Jonsson, Mckelvey, N{\ae}sje,
+  Skaala, Smith, S{\ae}grov, Stenseth, and V{\o}llestad}]{Otero2014}
+Otero J, L'Ab{\'{e}}e-Lund JH, Castro-Santos T, Leonardsson K, Storvik GO,
+  Jonsson B, Dempson B, Russell IC, Jensen AJ, Baglini{\`{e}}re JL, Dionne M,
+  Armstrong JD, Romakkaniemi A, Letcher BH, Kocik JF, Erkinaro J, Poole R,
+  Rogan G, Lundqvist H, Maclean JC, Jokikokko E, Arnekleiv JV, Kennedy RJ,
+  Niemel{\"{a}} E, Caballero P, Music PA, Antonsson T, Gudjonsson S, Veselov
+  AE, Lamberg A, Groom S, Taylor BH, Taberner M, Dillane M, Arnason F, Horton
+  G, Hvidsten NA, Jonsson IR, Jonsson N, Mckelvey S, N{\ae}sje TF, Skaala {\O},
+  Smith GW, S{\ae}grov H, Stenseth NC, V{\o}llestad LA (2014) {Basin-scale
+  phenology and effects of climate variability on global timing of initial
+  seaward migration of Atlantic salmon (\textit{Salmo salar})}. Global Change
+  Biology 20(1):61--75, \doi{10.1111/gcb.12363}
+
+\bibitem[{Pearchy et~al(1984)Pearchy, Nishiyama, Fujii, and
+  Masuda}]{Pearchy1984}
+Pearchy W, Nishiyama T, Fujii T, Masuda K (1984) {Diel variation in the feeding
+  habits of Pacific salmon caught in gill nets during a 24-hour period in the
+  Gulf of Alaska}. Fishery Bulletin 82(2):391--400
+
+\bibitem[{Pinheiro and Bates(2009)}]{Pinheiro2009}
+Pinheiro JC, Bates D (2009) {Mixed-Effects Models in S and S-PLUS}. Springer
+
+\bibitem[{Reddin et~al(2004)Reddin, Friedland, Downton, Dempson, and
+  Mullins}]{Reddin2004}
+Reddin DG, Friedland KD, Downton P, Dempson JB, Mullins CC (2004) {Thermal
+  habitat experienced by Atlantic salmon (\textit{Salmo salar} L.) kelts in
+  coastal Newfoundland waters}. Fisheries Oceanography 13(1):24--35,
+  \doi{10.1111/j.1365-2419.2004.00237.x}
+
+\bibitem[{Reddin et~al(2006)Reddin, Downton, and Friedland}]{Reddin2006}
+Reddin DG, Downton P, Friedland KD (2006) {Diurnal and nocturnal temperatures
+  for Atlantic salmon postsmolts (\textit{Salmo salar} L.) during their early
+  marine life}. Fishery Bulletin 104(3):415--427
+
+\bibitem[{Reddin et~al(2011)Reddin, Downton, Fleming, Hansen, and
+  Mahon}]{Reddin2011}
+Reddin DG, Downton P, Fleming IA, Hansen LP, Mahon A (2011) {Behavioural
+  ecology at sea of Atlantic salmon (\textit{Salmo salar} L.) kelts from a
+  Newfoundland (Canada) river}. Fisheries Oceanography 20(3):174--191,
+  \doi{10.1111/j.1365-2419.2011.00576.x}
+
+\bibitem[{Rikardsen and Dempson(2011)}]{Rikardsen2011}
+Rikardsen AH, Dempson JB (2011) {Dietary life-support: the food and feeding of
+  Atlantic salmon at sea}. In: Aas {\O}, Einum S, Klemetsen A, Skurdal J (eds)
+  Atlantic Salmon Ecology, Wiley-Blackwell, chap~5
+
+\bibitem[{Rikardsen et~al(2007)Rikardsen, Diserud, Elliott, Dempson,
+  Sturlaugsson, and Jensen}]{Rikardsen2007}
+Rikardsen AH, Diserud OH, Elliott JM, Dempson JB, Sturlaugsson J, Jensen AJ
+  (2007) {The marine temperature and depth preferences of Arctic charr
+  (\textit{Salvelinus alpinus}) and sea trout (\textit{Salmo trutta}), as
+  recorded by data storage tags}. Fisheries Oceanography 16(5):436--447,
+  \doi{10.1111/j.1365-2419.2007.00445.x}
+
+\bibitem[{Str{\o}m et~al(2017)Str{\o}m, Thorstad, Chafe, S{\o}rbye, Righton,
+  Rikardsen, and Carr}]{Strom2017}
+Str{\o}m JF, Thorstad EB, Chafe G, S{\o}rbye SH, Righton D, Rikardsen AH, Carr
+  J (2017) {Ocean migration of pop-up satellite archival tagged Atlantic salmon
+  from the Miramichi River in Canada}. ICES Journal of Marine Science: Journal
+  du Conseil 74(5):1356--1370, \doi{10.1093/icesjms/fsw220}
+
+\bibitem[{Thorrold et~al(2014)Thorrold, Afonso, Fontes, Braun, Santos, Skomal,
+  and Berumen}]{Thorrold2014}
+Thorrold SR, Afonso P, Fontes J, Braun CD, Santos RS, Skomal GB, Berumen ML
+  (2014) {Extreme diving behaviour in devil rays links surface waters and the
+  deep ocean}. Nature Communications 5:4274, \doi{10.1038/ncomms5274}
+
+\bibitem[{Thorstad et~al(2011)Thorstad, Whoriskey, Rikardsen, and
+  Aarestrup}]{Thorstad2011}
+Thorstad EB, Whoriskey F, Rikardsen AH, Aarestrup K (2011) {Aquatic Nomads: The
+  Life and Migrations of the Atlantic Salmon}. In: Aas {\O}, Einum S, Klemetsen
+  A, Skurdal J (eds) Atlantic Salmon Ecology, Wiley-Blackwell, chap~1, pp
+  1--32, \doi{10.1002/9781444327755.ch1}
+
+\bibitem[{Walker et~al(2000)Walker, Myers, Davis, Aydin, Friedland, Carlson,
+  Boehlert, Urawa, Ueno, and Anma}]{Walker2000}
+Walker RV, Myers KW, Davis ND, Aydin KY, Friedland KD, Carlson HR, Boehlert GW,
+  Urawa S, Ueno Y, Anma G (2000) {Diurnal variation in thermal environment
+  experienced by salmonids in the North Pacific as indicated by data storage
+  tags}. Fisheries Oceanography 9(2):171--186,
+  \doi{10.1046/j.1365-2419.2000.00131.x}
+
+\bibitem[{Ward and Hvidsten(2011)}]{Ward2011}
+Ward DM, Hvidsten NA (2011) {Predation: Compensation and Context Dependence}.
+  In: Aas {\O}, Einum S, Klemetsen A, Skurdal J (eds) Atlantic Salmon Ecology,
+  Wiley-Blackwell, chap~8, \doi{10.1002/9781444327755.ch8}
+
+\bibitem[{Westerberg(1982{\natexlab{a}})}]{Westerberg1982a}
+Westerberg H (1982{\natexlab{a}}) {Ultrasonic Tracking of Atlantic Salmon
+  (\textit{Salmo-Salar} L.) - I. Movements in Coastal Regions}. In: Institute
+  of Freshwater Research Drottingholm Report, no.~60 in 1982, Swedish board of
+  Fisheries, pp 81--101
+
+\bibitem[{Westerberg(1982{\natexlab{b}})}]{Westerberg1982b}
+Westerberg H (1982{\natexlab{b}}) {Ultrasonic Tracking of Atlantic Salmon
+  (\textit{Salmo salar} L.) - II. Swimming Depth and Temperature
+  Stratification}. In: Institute of Freshwater Research Drottingholm Report,
+  no.~60 in 1982, Swedish board of Fisheries, Lund, Sweden, pp 102--120
+
+\end{thebibliography}
