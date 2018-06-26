@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -84,6 +84,10 @@ Holm M, Jacobsen JA, Sturlaugsson J, Holst JC (2006) {Behaviour of Atlantic
   Atlantic – implications for interception by pelagic trawls}. In: ICES
   Document CM 2006/Q:12, p~16
 
+\bibitem[{ICES(2018)}]{ICES2018}
+ICES (2018) Report of the working group on north atlantic salmon (wgnas),
+  4–13 april 2018. Tech. Rep. CM 2018/ACOM:21, ICES, Woods Hole, MA, USA
+
 \bibitem[{Irigoien et~al(2014)Irigoien, Klevjer, R{\o}stad, Martinez, Boyra,
   Acu{\~{n}}a, Bode, Echevarria, Gonzalez-Gordillo, Hernandez-Leon, Agusti,
   Aksnes, Duarte, and Kaartvedt}]{Irigoien2014}
@@ -97,6 +101,10 @@ Irigoien X, Klevjer TA, R{\o}stad A, Martinez U, Boyra G, Acu{\~{n}}a JL, Bode
 Jacobsen JA, Hansen LP (2001) {Feeding habits of wild and escaped farmed
   Atlantic salmon, \textit{Salmo salar} L., in the Northeast Atlantic}. ICES
   Journal of Marine Science 58(4):916--933, \doi{10.1006/jmsc.2001.1084}
+
+\bibitem[{Johannsson and Gudjonsson(1996)}]{Johannsson1996}
+Johannsson M, Gudjonsson S (1996) {Fiskr{\ae}kt (In Icelandic)}. Freyr
+  11:463--471
 
 \bibitem[{Lacroix(2013)}]{Lacroix2013}
 Lacroix GL (2013) {Population-specific ranges of oceanic migration for adult
@@ -225,5 +233,11 @@ Westerberg H (1982{\natexlab{b}}) {Ultrasonic Tracking of Atlantic Salmon
   (\textit{Salmo salar} L.) - II. Swimming Depth and Temperature
   Stratification}. In: Institute of Freshwater Research Drottingholm Report,
   no.~60 in 1982, Swedish Board of Fisheries, Lund, Sweden, pp 102--120
+
+\bibitem[{Þórðardóttir and Guðbergsson(2017)}]{Thordardottir2017}
+Þórðardóttir GB, Guðbergsson G (2017) {Catch statistics for Atlantic
+  salmon Arctic char and brown trout in Icelandic rivers and lakes 2016}. Tech.
+  Rep. HV 2017-030, Marine and Freshwater Research Institute, Reykjav{\'{i}}k,
+  Iceland
 
 \end{thebibliography}
